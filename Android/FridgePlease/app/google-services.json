@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "40133738324",
+    "firebase_url": "https://fridgeplease.firebaseio.com",
+    "project_id": "fridgeplease",
+    "storage_bucket": "fridgeplease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40133738324:android:b986b9f8f619ee3a",
+        "android_client_info": {
+          "package_name": "com.nice295.fridgeplease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40133738324-jj1o99hq2gnlt9rv1005ff4lpa15vheu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeJPR4ZaXbO-3eM5qhTqtjCoLYOr4iXYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

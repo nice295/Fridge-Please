@@ -1,0 +1,12 @@
+# ninja log v5
+0	816	0	src/basicui4.o	a62a1ee867da3d6c
+817	1418	0	basicui4	d0f9be3f55c9caf2
+0	8	0	clean_sa	4c96bf98c7d9ab47
+8	13	0	clean	d59b6dac04fa9b5d
+3	609	0	src/basicui4.o	70a4cc3c27d54b01
+611	1069	0	fridgeplease	ea8ef79a762fc291
+3	971	0	fridgeplease	ea8ef79a762fc291
+2	1788	0	src/basicui4.o	a62a1ee867da3d6c
+1789	2952	0	fridgeplease	1ec2f3bcc89891ee
+3	467	0	src/basicui4.o	70a4cc3c27d54b01
+467	764	0	fridgeplease	ea8ef79a762fc291

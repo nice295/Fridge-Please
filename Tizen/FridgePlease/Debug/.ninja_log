@@ -1,0 +1,25 @@
+# ninja log v5
+0	1217	0	src/basicui4.o	300b068151954daf
+1218	1785	0	basicui4	b5f058c73c52a3b3
+2	769	0	src/basicui4.o	300b068151954daf
+769	1355	0	basicui4	b5f058c73c52a3b3
+3	1396	0	src/basicui4.o	300b068151954daf
+1396	2284	0	basicui4	b5f058c73c52a3b3
+3	1444	0	src/basicui4.o	7a4c180ae0bcd0f2
+1446	2677	0	basicui4	d425948d990e24f6
+2	479	0	src/basicui4.o	7a4c180ae0bcd0f2
+479	776	0	basicui4	d425948d990e24f6
+3	431	0	src/basicui4.o	7a4c180ae0bcd0f2
+431	923	0	fridgeplease	ea8ef79a762fc291
+3	1221	0	src/basicui4.o	300b068151954daf
+1222	1802	0	fridgeplease	1ec2f3bcc89891ee
+2	1271	0	src/basicui4.o	7a4c180ae0bcd0f2
+1271	2095	0	fridgeplease	ea8ef79a762fc291
+2	488	0	src/basicui4.o	7a4c180ae0bcd0f2
+488	857	0	fridgeplease	ea8ef79a762fc291
+3	449	0	src/basicui4.o	7a4c180ae0bcd0f2
+449	767	0	fridgeplease	ea8ef79a762fc291
+0	10	0	clean_sa	4c96bf98c7d9ab47
+10	20	0	clean	d59b6dac04fa9b5d
+2	740	0	src/basicui4.o	7a4c180ae0bcd0f2
+740	1324	0	fridgeplease	ea8ef79a762fc291
